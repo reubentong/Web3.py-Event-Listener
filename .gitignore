@@ -1,0 +1,17 @@
+.DS_Store
+/.idea/vcs.xml
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/FedReserve.iml
+/.idea/.gitignore
+/.idea
+.idea
+venv/
+**/__pycache__
+.idea/
+
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
